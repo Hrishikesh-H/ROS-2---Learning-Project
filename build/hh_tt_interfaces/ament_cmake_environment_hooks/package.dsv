@@ -1,0 +1,4 @@
+source;share/hh_tt_interfaces/local_setup.bash
+source;share/hh_tt_interfaces/local_setup.dsv
+source;share/hh_tt_interfaces/local_setup.sh
+source;share/hh_tt_interfaces/local_setup.zsh

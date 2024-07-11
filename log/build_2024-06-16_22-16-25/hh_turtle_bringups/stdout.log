@@ -1,0 +1,35 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bringups
+-- Install configuration: ""
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/launch
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/launch/catch_the_turtle_app.launch.py
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/ament_index/resource_index/package_run_dependencies/hh_turtle_bringups
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/ament_index/resource_index/parent_prefix_path/hh_turtle_bringups
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/environment/ament_prefix_path.sh
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/environment/ament_prefix_path.dsv
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/environment/path.sh
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/environment/path.dsv
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/local_setup.bash
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/local_setup.sh
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/local_setup.zsh
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/local_setup.dsv
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/package.dsv
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/ament_index/resource_index/packages/hh_turtle_bringups
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/cmake/hh_turtle_bringupsConfig.cmake
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/cmake/hh_turtle_bringupsConfig-version.cmake
+-- Installing: /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bringups/share/hh_turtle_bringups/package.xml

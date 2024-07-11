@@ -1,0 +1,25 @@
+[0.292s] Invoking command in '/home/hrishikesh/projects/turtle_sim_project/src/hh_turtle_bot': PYTHONPATH=/home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/prefix_override:/home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hh_turtle_bot build --build-base /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build install --record /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/install.log --single-version-externally-managed install_data
+[0.410s] running egg_info
+[0.411s] writing ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/PKG-INFO
+[0.411s] writing dependency_links to ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/dependency_links.txt
+[0.411s] writing entry points to ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/entry_points.txt
+[0.411s] writing requirements to ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/requires.txt
+[0.411s] writing top-level names to ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/top_level.txt
+[0.412s] reading manifest file '../../build/hh_turtle_bot/hh_turtle_bot.egg-info/SOURCES.txt'
+[0.412s] writing manifest file '../../build/hh_turtle_bot/hh_turtle_bot.egg-info/SOURCES.txt'
+[0.412s] running build
+[0.412s] running build_py
+[0.412s] copying hh_turtle_bot/turtle_spawner.py -> /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot
+[0.412s] running install
+[0.412s] running install_lib
+[0.413s] copying /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot/turtle_spawner.py -> /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot
+[0.413s] byte-compiling /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+[0.414s] running install_data
+[0.414s] running install_egg_info
+[0.415s] removing '/home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.415s] Copying ../../build/hh_turtle_bot/hh_turtle_bot.egg-info to /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot-0.0.0-py3.10.egg-info
+[0.415s] running install_scripts
+[0.427s] Installing turtle_spawner script to /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/hh_turtle_bot
+[0.427s] Installing turtlesim_controller script to /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/hh_turtle_bot
+[0.427s] writing list of installed files to '/home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/install.log'
+[0.441s] Invoked command in '/home/hrishikesh/projects/turtle_sim_project/src/hh_turtle_bot' returned '0': PYTHONPATH=/home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/prefix_override:/home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hh_turtle_bot build --build-base /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build install --record /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+[console_scripts]
+turtle_spawner = hh_turtle_bot.turtle_spawner:main
+turtlesim_controller = hh_turtle_bot.turtle_controller:main
+

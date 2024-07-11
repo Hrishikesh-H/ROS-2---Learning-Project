@@ -1,0 +1,38 @@
+running egg_info
+creating ../../build/hh_turtle_bot/hh_turtle_bot.egg-info
+writing ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/dependency_links.txt
+writing entry points to ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/entry_points.txt
+writing requirements to ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/requires.txt
+writing top-level names to ../../build/hh_turtle_bot/hh_turtle_bot.egg-info/top_level.txt
+writing manifest file '../../build/hh_turtle_bot/hh_turtle_bot.egg-info/SOURCES.txt'
+reading manifest file '../../build/hh_turtle_bot/hh_turtle_bot.egg-info/SOURCES.txt'
+writing manifest file '../../build/hh_turtle_bot/hh_turtle_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build
+creating /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib
+creating /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot
+copying hh_turtle_bot/turtle_controller.py -> /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot
+copying hh_turtle_bot/__init__.py -> /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot
+copying hh_turtle_bot/turtle_spawner.py -> /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot
+running install
+running install_lib
+creating /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot
+copying /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot/turtle_controller.py -> /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot
+copying /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot/__init__.py -> /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot
+copying /home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/build/lib/hh_turtle_bot/turtle_spawner.py -> /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot
+byte-compiling /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot/turtle_controller.py to turtle_controller.cpython-310.pyc
+byte-compiling /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+running install_data
+creating /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/share/ament_index
+creating /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/share/ament_index/resource_index
+creating /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/share/ament_index/resource_index/packages
+copying resource/hh_turtle_bot -> /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/share/ament_index/resource_index/packages
+copying package.xml -> /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/share/hh_turtle_bot
+running install_egg_info
+Copying ../../build/hh_turtle_bot/hh_turtle_bot.egg-info to /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/python3.10/site-packages/hh_turtle_bot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtlesim_controller script to /home/hrishikesh/projects/turtle_sim_project/install/hh_turtle_bot/lib/hh_turtle_bot
+writing list of installed files to '/home/hrishikesh/projects/turtle_sim_project/build/hh_turtle_bot/install.log'

@@ -1,0 +1,8 @@
+{
+  "package_name": "hh_tt_interfaces",
+  "non_idl_tuples": [
+    "/home/hrishikesh/projects/turtle_sim_project/src/hh_tt_interfaces:msg/Turtle.msg",
+    "/home/hrishikesh/projects/turtle_sim_project/src/hh_tt_interfaces:msg/TurtleArray.msg",
+    "/home/hrishikesh/projects/turtle_sim_project/src/hh_tt_interfaces:srv/CatchTurtle.srv"
+  ]
+}
